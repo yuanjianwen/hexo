@@ -25,7 +25,7 @@ description: ""
 keyword: ""
 header-img: img/header_img/home-bg-2-dark.png
 signature: true #show signature
-signature-img: img/signature/BeanTechSign-white.png 
+signature-img: img/signature/BeanTechSign-white.png
 
 
 # SNS settings
@@ -152,7 +152,7 @@ archive_generator:
   yearly: true
   monthly: true
   daily: false
-  
+
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
 markdown:
@@ -163,11 +163,11 @@ markdown:
     linkify: true
     typographer: true
     quotes: '“”‘’'
-  
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: beantech
+theme: clean-blog
 
 #sitemap
 sitemap:
