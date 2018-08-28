@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: MUST PHD CONFERENECE
+title: The 2nd PhD Student Seminar 2018 FI, MUST
 subtitle:
 author: jian wen
 language:
@@ -19,8 +19,8 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Beantech | 豆科技
-email: beantech@gmail.com
+SEOTitle:
+email: 
 description: ""
 keyword: ""
 header-img: img/header_img/home-bg-2-dark.png
