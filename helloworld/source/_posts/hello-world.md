@@ -1,38 +1,33 @@
+title: <p style="display:none;"> Please read carefully </p>
+
 ---
-title: Home
+## Goal
+
+The 2nd PhD Student Seminar 2018 provides a platform for FI PhD students to meet together and discuss their research findings and the latest advancements in their own disciplines. The seminar seeks original, UNPUBLISHED research papers reporting the latest research of each PhD student.
+
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## Important date
 
-### Create a new post
+<font color = red> Abstact Due:       September 6, 2018 (tentative)
+Full Paper Due:     September 6, 2018 (tentative)
+Oral Presentation: 	 September 13, 2018 (tentative)</font><br>
 
-``` bash
-$ hexo new "My New Post"
-```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+ English is the official language for the presentation. The power point file (ppt) for oral presenation should also be submitted before the formal oral presentation. More details on the scheduling of oral presentation will be announced later.
 
-### Run server
 
-``` bash
-$ hexo server
-```
+---
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
+## Fi policy for PHD students
 
-``` bash
-$ hexo generate
-```
+FI PhD course, DIIZ11 (LITERATURE SURVEY AND THESIS PLANNING), consists of FI PhD Student Seminar (20% of the total score) and Fl PhD Proposal Defense (80% of the total score). Before applying for the PhD Proposal Defense, a PhD student MUST attend the PhD Student Seminar (each student is required to submit an annual report and conduct an oral presentation).
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+---
 
-### Deploy to remote sites
+## Contact
 
-``` bash
-$ hexo deploy
-```
+For any inquiry , please contact Joey Wong at 8897-2240 or email by lmawong@must.edu.mo.
 
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+---
