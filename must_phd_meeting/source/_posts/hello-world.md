@@ -9,9 +9,9 @@ The 2nd PhD Student Seminar 2018 provides a platform for FI PhD students to meet
 
 ## Important date
 
-<font color = red> Abstact Due:       September 6, 2018 (tentative)
-Full Paper Due:     September 6, 2018 (tentative)
-Oral Presentation: 	 September 13, 2018 (tentative)</font><br>
+<font color = red> Abstact Due:       September 6, 2018
+Full Paper Due:     September 6, 2018
+Oral Presentation: 	 September 13, 2018 </font><br>
 
 
  English is the official language for the presentation. The power point file (ppt) for oral presenation should also be submitted before the formal oral presentation. More details on the scheduling of oral presentation will be announced later.
