@@ -79,4 +79,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: git@github.com:yuanjianwen/yuanjianwen.github.io.git
+  branch: master
