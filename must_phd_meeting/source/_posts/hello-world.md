@@ -9,8 +9,8 @@ The 2nd PhD Student Seminar 2018 provides a platform for FI PhD students at the 
 
 ## Important date
 
-- Paper Submission Due: September 6, 2018
-- Slides Submission Due:  September 6, 2018
+- Paper Submission Due: September 9, 2018
+- Slides Submission Due:  September 9, 2018
 - Seminar Date: September 13, 2018 </font><br>
 
 
