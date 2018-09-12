@@ -6,7 +6,7 @@ date: 2018-08-29 10:21:18
 
 # Venue
 
-Room 408, Building C
+Room 401, Building B
 Macau University of Science and Technology
 Avenida Wai Long, Taipa, Macau
 
